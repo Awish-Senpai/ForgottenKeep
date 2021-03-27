@@ -11,7 +11,6 @@ Into your themes folder. Assuming you are currently in the directory `C:\Users\<
 Switch to your themes folder like so.
 
 ## Screenshots
-![image](https://i.imgur.com/9pkwOG7.png)
 ![image](https://i.imgur.com/Fi40FaR.png)
 ![image](https://i.imgur.com/h77uPc2.png)
 ![image](https://i.imgur.com/41Iqcr8.png)
