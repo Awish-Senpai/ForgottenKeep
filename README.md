@@ -37,9 +37,9 @@ Switch to your themes folder like so.
 
 # • Changelog [v1.5]
 
-• Added hover effects for socials, in profile.
-• Edited dark theme for settings page.
-• Made the DMs a bit sleek.
+• Added hover effects for socials, in profile.  
+• Edited dark theme for settings page.  
+• Made the DMs a bit sleek.  
 
 ### Note [To apply the changed, you have to gitpull again.
 How? Locate your powercord theme folder in command prompt by `cd powercord/src/Powercord/themes`.
