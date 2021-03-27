@@ -1,6 +1,6 @@
 # ForgottenKeep
 Discord theme for Powercord. The dark theme, that everyone awaited for so long. It's here finally!
-#### ForgottenKeep focuses on making the Discord default theme, even dark. This is pleasing to the eyes too. Redefined animations, and also some extra small animation touches everywhere, makes this theme unique from every other theme.
+#### ForgottenKeep focuses on making the Discord default theme, even dark. This is pleasing to the eyes too. Redefined animations, colourful buttons and also some extra small animation touches everywhere, makes this theme unique from every other theme.
 
 ## Installation
 
