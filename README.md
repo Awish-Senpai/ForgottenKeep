@@ -34,3 +34,9 @@ Switch to your themes folder like so.
 ![image](https://i.imgur.com/Tws07qn.gif)
 
 ## What are you waiting for? Download ForgottenKeep now!
+
+# • Changelog [v1.5]
+
+> Added hover effects for socials, in profile.
+> Edited dark theme for settings page.
+> Made the DMs a bit sleek.
