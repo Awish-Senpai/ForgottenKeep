@@ -41,6 +41,6 @@ Switch to your themes folder like so.
 • Edited dark theme for settings page.  
 • Made the DMs a bit sleek.  
 
-### Note [To apply the changed, you have to gitpull again.
+### Note [To apply the changes, you have to gitpull again.
 How? Locate your powercord theme folder in command prompt by `cd powercord/src/Powercord/themes`.
 Then, do `git clone https://github.com/Awish-Senpai/ForgottenKeep.git` again and it should work]
