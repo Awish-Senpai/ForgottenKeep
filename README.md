@@ -5,7 +5,7 @@ Discord theme for Powercord. The dark theme, that everyone awaited for so long. 
 ## Installation
 
 Paste the following into command prompt:  
-`git clone https://github.com/TheUndeadBowman/Andromeda.git`  
+`git clone https://github.com/Awish-Senpai/ForgottenKeep.git`  
 Into your themes folder. Assuming you are currently in the directory `C:\Users\<username>`:  
 `cd powercord/src/Powercord/themes`  
 Switch to your themes folder like so.
