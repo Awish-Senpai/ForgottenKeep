@@ -31,5 +31,6 @@ Switch to your themes folder like so.
 ![image](https://i.imgur.com/uHp6l9Y.gif)
 ![image](https://i.imgur.com/wQ4wqeh.gif)
 ![image](https://i.imgur.com/1mfTQVm.gif)
+![image](https://i.imgur.com/Tws07qn.gif)
 
 ## What are you waiting for? Download ForgottenKeep now!
