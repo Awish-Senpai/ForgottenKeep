@@ -17,7 +17,9 @@
 .theme-dark .scrollableContainer-2NUZem:hover {
     background-color: rgb(58, 58, 58);
 }
-
+.theme-dark .scrollableContainer-2NUZem:active {
+    background-color: rgb(83, 83, 83);
+}
 .theme-dark .message-2qnXI6.selected-2P5D_Z .buttons-cl5qTG, .mouse-mode .message-2qnXI6:hover .buttons-cl5qTG {
     opacity: 2;
     pointer-events: auto;
