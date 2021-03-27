@@ -40,3 +40,6 @@ Switch to your themes folder like so.
 > Added hover effects for socials, in profile.
 > Edited dark theme for settings page.
 > Made the DMs a bit sleek.
+### Note [To apply the changed, you have to gitpull again.
+How? Locate your powercord theme folder in command prompt by `cd powercord/src/Powercord/themes`.
+Then, do `git clone https://github.com/Awish-Senpai/ForgottenKeep.git` again and it should work]
