@@ -472,3 +472,82 @@
 .guildSection-1EoFKd{
     background: var(--background-secondary);
 }
+.circleIconButton-1QV--U{
+    color: rgb(148, 148, 148);
+    background: var(--background-secondary);
+}
+.circleIconButton-1QV--U.selected-1JjBPm {
+    color: #fff;
+    background-color: rgb(66, 66, 66);
+}
+.circleIconButton-1QV--U:active{
+    background-color: rgb(122, 122, 122);
+}
+.scroller-1d5FgU{
+    background-color: var(--background-text-area);
+}
+.search-1iTphC .searchBox-2_mAlO{
+    background-color: var(--background-text-area);
+}
+.theme-dark .card-3DjzTQ, .theme-dark .iconMask-3b8GzQ{
+    background-color: var(--background-secondary);
+}
+.content-1LAB8Z{
+    background-color: var(--background-text-area);
+}
+.footerTitle-2CYZch{
+    color: #fff;
+}
+.container-UC8Ug1:hover{
+    background-color: rgb(82, 82, 82);
+}
+.container-UC8Ug1{
+    background-color: rgb(58, 58, 58);
+}
+.text-1FOLJS{
+    color: #fff;
+}
+.container-UC8Ug1:active{
+    background-color: rgb(126, 126, 126);
+}
+.title-3w8xhj{
+    color: #fff;
+}
+.subtitle-Nw1LLR{
+    color: rgb(163, 163, 163);
+}
+.templatesList-2E6rTe{
+    margin-top: -1px;
+}
+.content-1LAB8Z{
+    border-radius: 0;
+}
+.lookFilled-1Gx00P.colorGrey-2DXtkV{
+    color: #fff;
+    background-color: rgb(59, 59, 59);
+}
+.lookFilled-1Gx00P.colorGrey-2DXtkV:hover{
+    background-color: rgb(83, 83, 83);
+}
+.lookFilled-1Gx00P.colorGrey-2DXtkV:active{
+    background-color: rgb(15, 85, 15);
+}
+.optionsList-3UMAjx {
+    margin-top: 0px;
+    padding: 0 16px 8px;
+}
+.title-LqAd9K{
+    color: #fff;
+}
+.subtitle-1Q3BuX{
+    color: rgb(163, 163, 163);
+}
+.skip-2o6MGG{
+    color: rgb(163, 163, 163);
+}
+.backButton-iA7KIs{
+    color: #fff;
+}
+.footer-2gL1pp {
+    border-radius: 0 0 0px 0px;
+}
