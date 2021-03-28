@@ -24,7 +24,7 @@ Switch to your themes folder like so.
 ![image](https://i.imgur.com/d7YTW32.png)
 
 ## Gifs
-![image](https://i.imgur.com/Gv8mQzH.gif)
+![image](https://i.imgur.com/URYSqL5.gif)
 ![image](https://i.imgur.com/uh2K2AK.gif)
 ![image](https://i.imgur.com/xKwPG22.gif)
 ![image](https://i.imgur.com/NO88KmH.gif)
@@ -49,4 +49,4 @@ Switch to your themes folder like so.
 
 ### Note [To apply the changes, you have to gitpull again.
 How? Locate your powercord theme folder in command prompt by `cd powercord/src/Powercord/themes`.
-Then, do `git clone https://github.com/Awish-Senpai/ForgottenKeep.git` again and it should work]
+Then, do `git clone https://github.com/Awish-Senpai/ForgottenKeep.git` again and it should work
