@@ -39,12 +39,12 @@ Switch to your themes folder like so.
 
 ## [v1.5]
 
->Added
+`> Added`
 • Added hover effects for socials, in profile.  
 • Edited dark theme for settings page.  
 • Made the DMs a bit sleek.  
 
->Removed
+`> Removed`
 • Messages when mentioned displayed green color, changed it back to default blue color.  
 
 ### Note [To apply the changes, you have to gitpull again.
