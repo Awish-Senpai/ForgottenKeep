@@ -52,6 +52,6 @@ Switch to your themes folder like so.
 `> Removed`  
 • Messages when mentioned displayed green color, changed it back to default bluish-yellow color.  
 
-### Note [To apply the changes, you have to gitpull again.
+### Note [To apply the changes, you have to gitpull again.]
 How? Locate your powercord theme folder in command prompt by `cd powercord/src/Powercord/themes`.
 Then, do `git clone https://github.com/Awish-Senpai/ForgottenKeep.git` again and it should work
