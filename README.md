@@ -13,7 +13,7 @@ Switch to your themes folder like so.
 ## Screenshots
 ![image](https://i.imgur.com/Fi40FaR.png)
 ![image](https://i.imgur.com/XV9dIoi.png)
-![image](https://i.imgur.com/h49VMiw.png)
+![image](https://i.imgur.com/41Iqcr8.png)
 ![image](https://i.imgur.com/ktWiE51.png)
 ![image](https://i.imgur.com/lJObE5t.png)
 ![image](https://i.imgur.com/DKRh6Vg.png)
