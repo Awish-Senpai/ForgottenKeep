@@ -65,12 +65,7 @@
     width: 240px;
     background-color: rgb(58, 58, 58);
 }
-.theme-dark .mentioned-xhSam7 {
-    background-color: #222c1f;
-}
-.theme-dark .message-2qnXI6.mentioned-xhSam7.selected-2P5D_Z, .mouse-mode.full-motion .mentioned-xhSam7:hover {
-    background-color: #253022;
-}
+
 .theme-dark .item-2hkk8m {
     position: absolute;
     display: block;
@@ -464,10 +459,4 @@
 }
 .connectedAccount-36nQx7:hover{
     background-color: rgb(56, 56, 56);
-}
-.message-2qnXI6.ephemeral-1PsL1r.selected-2P5D_Z, .message-2qnXI6.replying-1x3H0T.selected-2P5D_Z, .mouse-mode.full-motion .ephemeral-1PsL1r:hover, .mouse-mode.full-motion .replying-1x3H0T{
-    background-color: rgba(28, 207, 28, 0.199);
-}
-.message-2qnXI6.ephemeral-1PsL1r.selected-2P5D_Z, .message-2qnXI6.replying-1x3H0T.selected-2P5D_Z, .mouse-mode.full-motion .ephemeral-1PsL1r:hover, .mouse-mode.full-motion .replying-1x3H0T:hover{
-    background-color: rgba(28, 207, 28, 0.329);
 }

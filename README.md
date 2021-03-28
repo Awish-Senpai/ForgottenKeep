@@ -35,11 +35,17 @@ Switch to your themes folder like so.
 
 ## What are you waiting for? Download ForgottenKeep now!
 
-# • Changelog [v1.5]
+# • Changelog 
 
+## [v1.5]
+
+>Added
 • Added hover effects for socials, in profile.  
 • Edited dark theme for settings page.  
 • Made the DMs a bit sleek.  
+
+>Removed
+• Messages when mentioned displayed green color, changed it back to default blue color.  
 
 ### Note [To apply the changes, you have to gitpull again.
 How? Locate your powercord theme folder in command prompt by `cd powercord/src/Powercord/themes`.
