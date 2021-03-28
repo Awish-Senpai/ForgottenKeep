@@ -54,7 +54,7 @@ Switch to your themes folder like so.
 
 ## [v1.8]
 `> Added`  
-• Changed the channel unread indicator.  
+• Changed the color of the channel unread indicator.  
 • Changed the color of the `new` indicator when mentioned in DMs.  
 
 ### Note [To apply the changes, you have to gitpull again.]
