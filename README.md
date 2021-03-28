@@ -44,7 +44,7 @@ Switch to your themes folder like so.
 • Edited dark theme for settings page.  
 • Made the DMs a bit sleek.  
 • Changed the color of the search options box, to dark as per as the theme.  
-• Changed the color of the emoji display box to dark, when clicked on an emoji. 
+• Changed the color of the emoji display box to dark, when clicked on an emoji.  
 • Changed the color of server join and add buttons, to dark, at the bottom.  
 • Changed the color of the entire server browser to dark.  
 • Changed the color of the server creator box, to dark.
