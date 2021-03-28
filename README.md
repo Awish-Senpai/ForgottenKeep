@@ -19,7 +19,7 @@ Switch to your themes folder like so.
 ![image](https://i.imgur.com/DKRh6Vg.png)
 ![image](https://i.imgur.com/Ue6Rlo1.png)
 ![image](https://i.imgur.com/bk1ut9B.png)
-![image](https://i.imgur.com/sVhp5jm.png)
+![image](https://i.imgur.com/eEsVgKF.png)
 ![image](https://i.imgur.com/3jKpY2A.png)
 ![image](https://i.imgur.com/d7YTW32.png)
 
@@ -47,10 +47,15 @@ Switch to your themes folder like so.
 • Changed the color of the emoji display box to dark, when clicked on an emoji.  
 • Changed the color of server join and add buttons, to dark, at the bottom.  
 • Changed the color of the entire server browser to dark.  
-• Changed the color of the server creator box, to dark.
+• Changed the color of the server creator box, to dark.  
 
 `> Removed`  
 • Messages when mentioned displayed green color, changed it back to default bluish-yellow color.  
+
+## [v1.8]
+`> Added`  
+• Changed the channel unread indicator.  
+• Changed the color of the `new` indicator when mentioned in DMs.  
 
 ### Note [To apply the changes, you have to gitpull again.]
 How? Locate your powercord theme folder in command prompt by `cd powercord/src/Powercord/themes`.

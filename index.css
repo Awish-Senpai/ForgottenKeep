@@ -447,12 +447,27 @@
 }
 .unread-2lAfLh {
     position: absolute;
-    height: 8px;
-    width: 7px;
-    border-radius: 4px 4px 4px 4px;
-    top: 50%;
-    left: 5px;
+    height: 31px;
+    width: 3px;
+    border-radius: 4px 14px 14px 4px;
+    top: 14%;
+    left: 0px;
     margin-top: -4px;
+}
+.unread-2lAfLh{
+    background-color: #7289DA;
+}
+.modeConnected-3IsKId .name-23GUGE, .modeConnected-3IsKId:hover .name-23GUGE, .modeSelected-346R90 .name-23GUGE, .modeSelected-346R90:hover .name-23GUGE, .modeUnread-1qO3K1 .name-23GUGE, .modeUnread-1qO3K1:hover .name-23GUGE, .notInteractive-1X92pj.modeConnected-3IsKId .name-23GUGE, .notInteractive-1X92pj.modeSelected-346R90 .name-23GUGE{
+    color: #7289DA;
+}
+.modeConnected-3IsKId:hover .name-23GUGE, .modeConnected-3IsKId:hover .name-23GUGE, .modeSelected-346R90:hover .name-23GUGE, .modeSelected-346R90:hover .name-23GUGE, .modeUnread-1qO3K1:hover .name-23GUGE, .modeUnread-1qO3K1:hover .name-23GUGE, .notInteractive-1X92pj.modeConnected-3IsKId:hover .name-23GUGE, .notInteractive-1X92pj.modeSelected-346R90:hover .name-23GUGE{
+    color: #c1cefd;
+}
+.modeSelected-346R90 .name-23GUGE{
+    color: #fff;
+}
+.unreadMentionsBar-1Bu1dC{
+    background-color: #7289DA;
 }
 .connectedAccount-36nQx7{
     transition: all 0.1s;
