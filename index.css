@@ -460,3 +460,9 @@
 .connectedAccount-36nQx7:hover{
     background-color: rgb(56, 56, 56);
 }
+.resultsGroup-r_nuzN{
+    background-color: var(--background-text-area);
+}
+.theme-dark .option-96V44q:after {
+    background: var(--background-text-area);
+}

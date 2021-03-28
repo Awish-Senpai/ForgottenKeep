@@ -43,6 +43,7 @@ Switch to your themes folder like so.
 • Added hover effects for socials, in profile.  
 • Edited dark theme for settings page.  
 • Made the DMs a bit sleek.  
+• Changed the color of the search options box, to dark as per as the theme.  
 
 `> Removed`  
 • Messages when mentioned displayed green color, changed it back to default blue color.  
