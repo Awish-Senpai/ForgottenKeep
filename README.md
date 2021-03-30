@@ -56,6 +56,8 @@ Switch to your themes folder like so.
 `> Added`  
 • Changed the color of the channel unread indicator, also redesigned it.  
 • Changed the color of the `new` indicator when mentioned in DMs.  
+• Changed the color of selection menu, when right clicked on something.  
+• Added hover effects to selection menu.  
 
 ### Note [To apply the changes, you have to gitpull again.]
 How? Locate your powercord theme folder in command prompt by `cd powercord/src/Powercord/themes`.
