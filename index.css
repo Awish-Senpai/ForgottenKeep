@@ -566,3 +566,16 @@
 .footer-2gL1pp {
     border-radius: 0 0 0px 0px;
 }
+.colorDefault-2K3EoJ.focused-3afm-j {
+    background-color: var(--background-primary);
+    color: #fff;
+}
+.colorDefault-2K3EoJ.focused-3afm-j:active {
+    background-color: var(--background-text-area);
+    color: #fff;
+}
+.colorDefault-2K3EoJ.focused-3afm-j:focus {
+    background-color: var(--background-text-area);
+    color: #fff;
+}
+
