@@ -19,7 +19,7 @@ Switch to your themes folder like so.
 ![image](https://i.imgur.com/DKRh6Vg.png)
 ![image](https://i.imgur.com/Ue6Rlo1.png)
 ![image](https://i.imgur.com/bk1ut9B.png)
-![image](https://i.imgur.com/eEsVgKF.png)
+![image](https://i.imgur.com/VEyRqDR.png)
 ![image](https://i.imgur.com/3jKpY2A.png)
 ![image](https://i.imgur.com/d7YTW32.png)
 
