@@ -469,6 +469,9 @@
 .unreadMentionsBar-1Bu1dC{
     background-color: #7289DA;
 }
+.unreadMentionsBar-1Bu1dC:active{
+    background-color: #849fff;
+}
 .connectedAccount-36nQx7{
     transition: all 0.1s;
 }
@@ -578,4 +581,67 @@
     background-color: var(--background-text-area);
     color: #fff;
 }
-
+.powercord-toast .header{
+    background-color: var(--background-primary);
+}
+.powercord-toast .contents{
+    background-color: var(--background-primary);
+    border-radius: 0%;
+}
+.powercord-toast .buttons{
+    background-color: var(--background-primary);
+}
+.powercord-toast .contents .inner{
+    background-color: var(--background-tertiary);
+}
+.powercord-toast .buttons button[class*=lookGhost-]{
+    background-color: var(--background-text-area);
+    color: #fff;
+}
+.powercord-toast .buttons button[class*=lookGhost-]:active{
+    background-color: #7289DA;
+}
+.lookOutlined-3sRXeN.colorGreen-29iAKY:hover{
+    background-color: rgba(28, 207, 28, 0.103);
+    border-color: rgb(20, 148, 20);
+}
+.lookOutlined-3sRXeN.colorGreen-29iAKY:active{
+    background-color: rgb(28, 207, 28);
+    border-color: rgb(20, 148, 20);
+}
+.powercord-toast .header .dismiss{
+    transition: 0s;
+}
+.powercord-toast .header .dismiss:hover{
+    color: rgb(238, 54, 54);
+}
+.topSectionPlaying-1J5E4n{
+    background: #181818;
+}
+.theme-dark .option-96V44q.selected-rZcOL-{
+    background-color: var(--background-primary);
+}
+.theme-dark .option-96V44q.selected-rZcOL-:after{
+    background: var(--background-primary);
+}
+.clear-1pMieT.iconLayout-1WxHy4:hover .icon-3cZ1F_:hover{
+    color: rgb(238, 54, 54);
+}
+.headerPlaying-j0WQBV{
+    background: #181818;
+}
+.input-cIJ7To.focused-1mmYsC, .input-cIJ7To:focus{
+    border-color: rgb(102, 102, 102);
+}
+.botTagRegular-2HEhHi{
+    background: rgb(94, 94, 94);
+}
+.uploadModal-2ifh8j .inner-3nWsbo{
+    background-color: var(--background-primary);
+}
+.theme-dark .uploadModal-2ifh8j{
+    background-color: var(--background-primary);
+}
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9{
+    background-color: rgb(124, 124, 124);
+}

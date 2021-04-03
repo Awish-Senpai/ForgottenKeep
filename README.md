@@ -59,6 +59,16 @@ Switch to your themes folder like so.
 • Changed the color of selection menu, when right clicked on something.  
 • Added hover effects to selection menu.  
 
+## [v2.2]
+`> Added`
+• Changed the color of the bot tag, from blurple to a convinient color as per as the theme.  
+• Changed the color of the powercord warning box as per as the theme.  
+• Changed the color of the Discord icon in home screen to match with the theme.  
+
+`> Adjusted`
+• Adjusted borders of dialogue boxes, which appeared weird.  
+• Adjusted the colors in the theme a little more.  
+
 ### Note [To apply the changes, you have to gitpull again.]
 How? Locate your powercord theme folder in command prompt by `cd powercord/src/Powercord/themes`.
 Then, do `git clone https://github.com/Awish-Senpai/ForgottenKeep.git` again and it should work
