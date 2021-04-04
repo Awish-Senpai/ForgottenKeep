@@ -55,7 +55,7 @@ Switch to your themes folder like so.
 ## [v1.8]
 `> Added`  
 • Changed the color of the channel unread indicator, also redesigned it.  
-• Changed the color of the `new` indicator when mentioned in DMs.  
+• Changed the color of the `new` indicator when mentioned in DMs or servers.  
 • Changed the color of selection menu, when right clicked on something.  
 • Added hover effects to selection menu.  
 
