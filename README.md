@@ -11,17 +11,17 @@ Into your themes folder. Assuming you are currently in the directory `C:\Users\<
 Switch to your themes folder like so.
 
 ## Screenshots
-![image](https://i.imgur.com/Fi40FaR.png)
-![image](https://i.imgur.com/XV9dIoi.png)
-![image](https://i.imgur.com/41Iqcr8.png)
-![image](https://i.imgur.com/h49VMiw.png)
-![image](https://i.imgur.com/lJObE5t.png)
-![image](https://i.imgur.com/DKRh6Vg.png)
-![image](https://i.imgur.com/Ue6Rlo1.png)
-![image](https://i.imgur.com/bk1ut9B.png)
+![image](https://i.imgur.com/vesPxlt.png)
+![image](https://i.imgur.com/bia8N8g.png)
+![image](https://i.imgur.com/dAiaA2W.png)
+![image](https://i.imgur.com/KpHjy7O.png)
+![image](https://i.imgur.com/XpaP8FJ.png)
+![image](https://i.imgur.com/P7r5BdO.png)
+![image](https://i.imgur.com/c8w8USH.png)
+![image](https://i.imgur.com/GiVMlEv.png)
 ![image](https://i.imgur.com/VEyRqDR.png)
-![image](https://i.imgur.com/3jKpY2A.png)
-![image](https://i.imgur.com/d7YTW32.png)
+![image](https://i.imgur.com/q6nNEB1.png)
+![image](https://i.imgur.com/VjVcEvk.png)
 
 ## Gifs
 ![image](https://i.imgur.com/URYSqL5.gif)
