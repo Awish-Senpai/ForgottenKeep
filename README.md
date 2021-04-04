@@ -72,7 +72,7 @@ Switch to your themes folder like so.
 • Adjusted the tooltip's color according to the theme.  
 • Adjusted the borders of several dialogue boxes.  
 • Adjusted the server invite background to suit the theme.  
-• Adjusted the `New message` unread indicator, to suit the theme.  
+• Adjusted the `New unreads` unread indicator, to suit the theme.  
 
 ### Note [To apply the changes, you have to gitpull again.]
 How? Locate your powercord theme folder in command prompt by `cd powercord/src/Powercord/themes`.
