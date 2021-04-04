@@ -62,7 +62,7 @@ Switch to your themes folder like so.
 ## [v2.2]
 `> Added`  
 • Changed the color of the bot tag, from blurple to a convinient color as per as the theme.  
-• Changed the color of the powercord warning box as per as the theme.  
+• Changed the color of the powercord toast box as per as the theme.  
 • Changed the color of the Discord icon in home screen to match with the theme.  
 
 `> Adjusted`  
