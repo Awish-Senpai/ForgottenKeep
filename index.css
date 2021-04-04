@@ -4,6 +4,8 @@
   --background-secondary: #1d1d1d !important;
   --background-tertiary: #181818 !important;
   --background-text-area: #292929 !important;
+  --scrollbar-auto-track: rgb(41, 41, 41);
+  --scrollbar-auto-thumb: rgb(77, 77, 77);
 }
 .theme-dark .scrollableContainer-2NUZem {
     overflow-x: hidden;
@@ -582,17 +584,17 @@
     color: #fff;
 }
 .powercord-toast .header{
-    background-color: var(--background-primary);
+    background-color: var(--background-primary) !important;
 }
 .powercord-toast .contents{
-    background-color: var(--background-primary);
-    border-radius: 0%;
+    background-color: var(--background-primary) !important;
+    border-radius: 0% !important;
 }
 .powercord-toast .buttons{
     background-color: var(--background-primary);
 }
 .powercord-toast .contents .inner{
-    background-color: var(--background-tertiary);
+    background-color: var(--background-tertiary) !important;
 }
 .powercord-toast .buttons button[class*=lookGhost-]{
     background-color: var(--background-text-area);
@@ -610,7 +612,7 @@
     border-color: rgb(20, 148, 20);
 }
 .powercord-toast .header .dismiss{
-    transition: 0s;
+    transition: 0s !important;
 }
 .powercord-toast .header .dismiss:hover{
     color: rgb(238, 54, 54);
@@ -644,4 +646,59 @@
 }
 .wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9{
     background-color: rgb(124, 124, 124);
+}
+.inspector-3LQtX9{
+    background-color: var(--background-secondary) !important;
+}
+.barButtonBase-2uLO1z{
+    background-color: var(--background-secondary);
+}
+.jumpToPresentBar-G1R9s6{
+    background-color: var(--background-secondary);
+}
+.botTagInvert-18-95s{
+    color: #fff;
+    background: rgb(94, 94, 94);
+}
+.theme-dark .queryContainer-RKFJW-{
+    background-color: var(--background-text-area);
+}
+.theme-dark .queryContainer-RKFJW-:hover{
+    background-color: var(--background-secondary);
+}
+.tooltip-2QfLtc{
+    background-color: var(--background-text-area) !important;
+}
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker{
+    background-color: var(--background-text-area);
+}
+.theme-dark .datePicker--XZbmJ .datePickerHint-3Q1Udw{
+    background-color: var(--background-text-area);
+}
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--selected:after{
+    background-color: var(--background-text-area);
+}
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--selected:hover, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day:hover{
+    background-color: rgb(92, 92, 92);
+}
+.theme-dark .datePicker--XZbmJ .datePickerHint-3Q1Udw .hintValue-29ny8Z{
+    background-color: var(--background-primary);
+}
+.theme-dark .datePicker--XZbmJ .datePickerHint-3Q1Udw .hintValue-29ny8Z:hover{
+    background-color: rgb(85, 85, 85);
+}
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__current-month{
+    background-color: var(--background-text-area);
+}
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day-name{
+    background-color: var(--background-text-area);
+}
+.theme-dark .datePicker--XZbmJ{
+    background-color: var(--background-text-area);
+}
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__header{
+    background-color: var(--background-text-area);
+}
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover{
+    background-color: rgb(49, 49, 49);
 }

@@ -68,6 +68,9 @@ Switch to your themes folder like so.
 `> Adjusted`  
 • Adjusted borders of dialogue boxes, which appeared weird.  
 • Adjusted the colors in the theme a little more.  
+• Adjusted the color of the date picker in the search option according to the theme.  
+• Adjusted the tooltip's color according to the theme.  
+• Adjusted the borders of several dialogue boxes.  
 
 ### Note [To apply the changes, you have to gitpull again.]
 How? Locate your powercord theme folder in command prompt by `cd powercord/src/Powercord/themes`.
