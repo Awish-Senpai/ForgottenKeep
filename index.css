@@ -702,3 +702,6 @@
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover{
     background-color: rgb(49, 49, 49);
 }
+.scroller-3__pG8{
+    background-color: var(--background-text-area);
+}
