@@ -60,12 +60,12 @@ Switch to your themes folder like so.
 • Added hover effects to selection menu.  
 
 ## [v2.2]
-`> Added`
+`> Added`  
 • Changed the color of the bot tag, from blurple to a convinient color as per as the theme.  
 • Changed the color of the powercord warning box as per as the theme.  
 • Changed the color of the Discord icon in home screen to match with the theme.  
 
-`> Adjusted`
+`> Adjusted`  
 • Adjusted borders of dialogue boxes, which appeared weird.  
 • Adjusted the colors in the theme a little more.  
 
