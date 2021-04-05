@@ -73,6 +73,7 @@ Switch to your themes folder like so.
 • Adjusted the borders of several dialogue boxes.  
 • Adjusted the server invite background to suit the theme.  
 • Adjusted the `New unreads` unread indicator, to suit the theme.  
+• Adjusted a few colors here and there.  
 
 ### Note [To apply the changes, you have to gitpull again.]
 How? Locate your powercord theme folder in command prompt by `cd powercord/src/Powercord/themes`.

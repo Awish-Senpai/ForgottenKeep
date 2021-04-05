@@ -142,17 +142,15 @@
 }
 .theme-dark .peopleList-3c4jOR {
     padding-bottom: 8px;
-    background-color: #2b2b2b;
+    background-color: #272727;
+}
+.theme-dark .actionButton-uPB8Fs{
+    transition: all 0.2s;
+    transform: scale(1);
 }
 .theme-dark .actionButton-uPB8Fs:hover{
-    animation: forwards 0.2s pop;
-    transition: all 0.2s;
+    transform: scale(1.1);
     background-color: rgb(70, 70, 70);
-}
-@keyframes pop{
-    100%{
-        transform: scale(1.1);
-    }
 }
 .theme-dark .feature-2w65J5 {
     background-color: var(--background-secondary-alt);
@@ -707,4 +705,7 @@
 }
 .unreadBottom-1_LF_w .unreadBar-3t3sYc{
     background-color: rgb(48, 48, 48);
+}
+.section-2gLsgF{
+    background-color: rgb(34, 34, 34);
 }
