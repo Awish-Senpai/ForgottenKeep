@@ -79,6 +79,10 @@ Switch to your themes folder like so.
 `> Rewritten`  
 • Rewritten all the colors and stored them inside variable values.  
 
+`> Changed`  
+• Changed the color of the tab of `Noise Suppression by Krisp` to match the theme.  
+• Changed the color of the `Screenshare` tab to match the theme.  
+
 ### Note [To apply the changes, you have to gitpull again.]
 How? Locate your powercord theme folder in command prompt by `cd powercord/src/Powercord/themes`.
 Then, do `git clone https://github.com/Awish-Senpai/ForgottenKeep.git` again and it should work
