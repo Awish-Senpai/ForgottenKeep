@@ -63,6 +63,7 @@
     --The-49: rgb(49, 49, 49);
     --The-48: rgb(48, 48, 48);
     --The-34: rgb(34, 34, 34);
+    --ToolTip: rgb(51, 51, 51);
 }
 .theme-dark .scrollableContainer-2NUZem {
     overflow-x: hidden;
@@ -721,8 +722,11 @@
 .theme-dark .queryContainer-RKFJW-:hover{
     background-color: var(--background-secondary);
 }
+.theme-dark .tooltipPrimary-1d1ph4 .tooltipPointer-3ZfirK{
+    border-top-color: var(--ToolTip) !important
+}
 .tooltip-2QfLtc{
-    background-color: var(--background-text-area) !important;
+    background-color: var(--ToolTip) !important;
 }
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker{
     background-color: var(--background-text-area);
@@ -778,3 +782,7 @@
 .search-1iTphC .searchBox-2_mAlO .searchBoxInput-K6mkng{
     color: #fff;
 }
+.theme-dark .outer-1AjyKL.active-1xchHY, .theme-dark .outer-1AjyKL.interactive-3B9GmY:hover{
+    background-color: var(--background-text-area);
+}
+

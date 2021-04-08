@@ -82,6 +82,7 @@ Switch to your themes folder like so.
 `> Changed`  
 • Changed the color of the tab of `Noise Suppression by Krisp` to match the theme.  
 • Changed the color of the `Screenshare` tab to match the theme.  
+• Changed the color of entire `ToolTip`, to match the theme. This can appear when you hover over channel's setting, or some kind of invite button.  
 
 ### Note [To apply the changes, you have to gitpull again.]
 How? Locate your powercord theme folder in command prompt by `cd powercord/src/Powercord/themes`.
