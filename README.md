@@ -22,6 +22,7 @@ Switch to your themes folder like so.
 ![image](https://i.imgur.com/VEyRqDR.png)
 ![image](https://i.imgur.com/q6nNEB1.png)
 ![image](https://i.imgur.com/VjVcEvk.png)
+![image](https://i.imgur.com/tDy4Btp.png)
 
 ## Gifs
 ![image](https://i.imgur.com/URYSqL5.gif)
