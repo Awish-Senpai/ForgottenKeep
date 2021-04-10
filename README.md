@@ -89,6 +89,8 @@ Switch to your themes folder like so.
 • Changed the Emoji viewer tray to look more good.  
 • Changed the Emoji in the Emoji viewer tray to look big instead of looking small.  
 • Changed the color of some minor things.  
+• Made the `Quick Selector` transparent and blurred.  
+• Made the settings menu transparent and blurred.  
 
 ### Note [To apply the changes, you have to gitpull again.]
 How? Locate your powercord theme folder in command prompt by `cd powercord/src/Powercord/themes`.

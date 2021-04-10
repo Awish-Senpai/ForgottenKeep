@@ -274,45 +274,27 @@
 .theme-dark .searchBar-6Kv8R2 .searchBarComponent-32dTOx:hover{
     background-color: var(--searchBarCom-hover);
 }
+
 .theme-dark .input-2VB9rf {
-    position: relative;
-    z-index: 1;
-    -webkit-box-flex: 0;
-    -ms-flex: 0 0 auto;
-    flex: 0 0 auto;
-    display: block;
-    padding: 0 12px;
-    font-size: 22px;
-    border-radius: 5px;
-    border: none;
-    height: 70px;
-    line-height: 70px;
-    background-color: var(--background-text-area);
+    background: transparent;
+    background-color: #2929295e;
     color: var(--text-normal);
-    -webkit-box-shadow: var(--elevation-high);
-    box-shadow: var(--elevation-high);
+}
+.scroller-zPkAnE{
+    background: transparent;
+}
+.backdrop-1wrmKB{
+    opacity: .8 !important;
 }
 .theme-dark .quickswitcher-3JagVE {
-    position: relative;
-    width: 570px;
-    border-radius: 8px;
-    padding: 20px 20px 0;
-    display: -webkit-box;
-    display: -ms-flexbox;
     opacity: 0.9;
+    backdrop-filter: blur(12px);
     display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    -webkit-box-align: stretch;
-    -ms-flex-align: stretch;
-    align-items: stretch;
-    -webkit-box-shadow: 0 2px 10px rgba(0,0,0,.2), 0 0 0 1px rgba(28,36,43,.6);
-    box-shadow: 0 2px 10px rgba(0,0,0,.2), 0 0 0 1px rgba(28,36,43,.6);
     background-color: var(--background-secondary);
+    background: transparent;
     color: var(--text-normal);
 }
+
 .theme-dark .expandedFolderIconWrapper-Huv7rA {
     width: 48px;
     height: 48px;
@@ -802,4 +784,18 @@
 .fa-wrench:before{
     color: var(--The-555555);
 }
+/* Transparent Settings Screen */
+.layers-3iHuyZ>.layer-3QrUeG:first-child{
+    transform: scale(1) !important;
+    opacity: 1 !important;
+}
+.layers-3iHuyZ>.layer-3QrUeG:nth-child(2),.perksModal-fSYqOq{
+    background-color: rgba(0, 0, 0, 0.5)!important;
+    backdrop-filter: blur(10px);
+}
+.contentRegionScroller-26nc1e,.contentRegion-3nDuYy,.standardSidebarView-3F1I7i,
+.sidebarRegionScroller-3MXcoP{
+    background: transparent;
+}
+/* Transparent Settings Screen End */
 
