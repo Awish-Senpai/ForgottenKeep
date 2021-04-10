@@ -84,6 +84,12 @@ Switch to your themes folder like so.
 • Changed the color of the `Screenshare` tab to match the theme.  
 • Changed the color of entire `ToolTip`, to match the theme. This can appear when you hover over channel's setting, or some kind of invite button.  
 
+## [v2.8]  
+`> Changed`  
+• Changed the Emoji viewer tray to look more good.  
+• Changed the Emoji in the Emoji viewer tray to look big instead of looking small.  
+• Changed the color of some minor things.  
+
 ### Note [To apply the changes, you have to gitpull again.]
 How? Locate your powercord theme folder in command prompt by `cd powercord/src/Powercord/themes`.
 Then, do `git clone https://github.com/Awish-Senpai/ForgottenKeep.git` again and it should work

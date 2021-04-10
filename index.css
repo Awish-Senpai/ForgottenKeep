@@ -785,4 +785,21 @@
 .theme-dark .outer-1AjyKL.active-1xchHY, .theme-dark .outer-1AjyKL.interactive-3B9GmY:hover{
     background-color: var(--background-text-area);
 }
+.emojiSection-3Fb9ix img {
+    margin: auto;
+    min-width: 80%;
+    height: auto !important;
+}
+.emojiSection-3Fb9ix > .noWrap-3jynv6, .emojiSection-3Fb9ix{
+    flex: wrap;
+    flex-direction: column !important;
+}
+.emojiName-27Bjxw {
+    font-weight: 600;
+    margin-top: 8px;
+    text-align: center;
+}
+.fa-wrench:before{
+    color: var(--The-555555);
+}
 
