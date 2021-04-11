@@ -92,6 +92,8 @@ Switch to your themes folder like so.
 • Changed the color of some minor things.  
 • Made the `Quick Selector` transparent and blurred.  
 • Made the settings menu transparent and blurred.  
+• Changed the color of the role selector for server to transparent and blurry.  
+• Changed some colors for some elements to match with the theme.  
 
 ### Note [To apply the changes, you have to gitpull again.]
 How? Locate your powercord theme folder in command prompt by `cd powercord/src/Powercord/themes`.

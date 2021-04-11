@@ -798,4 +798,31 @@
     background: transparent;
 }
 /* Transparent Settings Screen End */
+.accountList-33MS45{
+    background-color: rgba(51, 51, 51, 0.582);
+}
+.connectionHeader-2MDqhu{
+    background-color: rgba(51, 51, 51, 0.582);
+}
+.scroller-305q3I{
+    background: transparent;
+}
+/* Server settings - Emoji Hover */
+.theme-dark .card-FDVird:before {
+    background-color: #00000062;
+    border-color: #272727;
+}
+.theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse{
+    background-color: var(--background-primary);
+}
+/* Server settings - Emoji Hover End */
 
+/* Server Boosting Settings */
+.theme-dark .tierBody-x9kBBp {
+    background-color: #2727273a;
+    color: #b9bbbe;
+}
+.tierHeaderContent-2-YfvN{
+    background-color: #2c2c2c;
+}
+/* Server Boosting Settings */
