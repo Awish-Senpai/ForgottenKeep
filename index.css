@@ -826,3 +826,21 @@
     background-color: #2c2c2c;
 }
 /* Server Boosting Settings */
+
+/* Reactions Box */
+.reactors-Blmlhw{
+    background-color: var(--background-primary) !important;
+}
+.theme-dark .scroller-1-nKid{
+    background: var(--background-secondary);
+}
+/* Reactions Box End */
+
+/* Reactions Buttons */
+.reaction-1hd86g.reactionMe-wv5HKu{
+    background-color: rgb(80, 80, 80) !important;
+}
+.reactionMe-wv5HKu .reactionCount-2mvXRV, .reactionMe-wv5HKu:hover .reactionCount-2mvXRV{
+    color: var(--background-tertiary);
+}
+/* Reactions Buttons End */
