@@ -10,6 +10,12 @@ Into your themes folder. Assuming you are currently in the directory `C:\Users\<
 `cd powercord/src/Powercord/themes`  
 Switch to your themes folder like so.
 
+OR
+
+Just Add This Line To Your Custom CSS
+
+`@import url('https://awish-senpai.github.io/ForgottenKeep/index.css')`
+
 ## Screenshots
 ![image](https://i.imgur.com/vesPxlt.png)
 ![image](https://i.imgur.com/bia8N8g.png)
